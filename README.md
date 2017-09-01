@@ -1,5 +1,5 @@
 #### INSTALAÇÃO DE SERVIDOR OTIMIZADO PARA WordPress + WooCommerce
-
+##### [Link do respectivo video do Youtube: ](https://www.youtube.com/watch?v=m7mGl683Ioc&t=110s)
 
 #### PASSO 1
 ``` sh
